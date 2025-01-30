@@ -3,7 +3,7 @@ const expense = document.getElementById("expense")
 const category = document.getElementById("category")
 const amount = document.getElementById("amount")
 const form = document.querySelector("form")
-
+//sdpfidfdlknm
 const expenseList = document.querySelector("aside ul")
 const expensesQuantity = document.querySelector("aside header p span")
 const expensesTotal = document.querySelector("aside header h2")
